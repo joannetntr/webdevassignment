@@ -1,0 +1,21 @@
+head {
+  color: #000000;
+}
+
+h2 {
+  font-size: 17px;
+}
+
+
+body {
+  background-color: green;
+  color: rgb(136, 20, 20);
+  font-size: 16px;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: darkgreen;
+}
